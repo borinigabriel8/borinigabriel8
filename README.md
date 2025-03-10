@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" width="500"/>
+  <img src="https://github.com/borinigabriel8/borinigabriel8/blob/main/star-wars-obi-wan-kenobi.gif?raw=true" width="500"/>
 </p>
 
 <h1 align="center">I'm Gabriel!</h1>
