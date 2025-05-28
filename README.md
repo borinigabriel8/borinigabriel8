@@ -5,9 +5,9 @@
 <h1 align="center">I'm Gabriel!</h1>
 <h3 align="center">Student and Tech Enthusiast! 😎🚀</h3>
 
-- 💻 I'm a **Mobile Developer**  
+- 💻 I'm a **Developer**  
 - 📫 You can contact me through the email **borinigabriel@hotmail.com**  
-- 🌱 Currently learning **React Native**  
+- 🌱 Currently learning **RPA**  
 - 🚀 Tech Enthusiast **with a passion for AI**  
 
 ---
