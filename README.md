@@ -7,7 +7,7 @@
 
 - 💻 I'm a **Developer**  
 - 📫 You can contact me through the email **borinigabriel@hotmail.com**  
-- 🌱 Currently learning **RPA**  
+- 🌱 Currently learning **React Native**  
 - 🚀 Tech Enthusiast **with a passion for AI**  
 
 ---
