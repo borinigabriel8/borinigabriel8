@@ -25,4 +25,7 @@
 
 ### 🛠️ Data Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,mysql,oracle,docker,aws,gcp,linux,git,grafana,&)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,aws,gcp,linux,git,grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
+</p>
